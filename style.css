@@ -1,0 +1,62 @@
+body{
+	font:arial;
+	
+}
+
+
+
+
+#outerDiv{
+	background-color:rgb(128,187,201);
+	padding:30px;
+	width:100%;
+	height:100%;
+	
+}
+
+#innerDiv{
+	width:80%;
+	background-color:white;
+	margin-top:10px;
+}
+
+#myNavbar{
+	margin:0 auto;
+	position:relative;
+	
+	
+	
+}
+#myNavbar a{
+	
+	color:gray;
+	
+	}
+
+#circle{
+	position:relative;
+	height:90px;
+	margin-top:-30px;
+	z-index:99;
+}
+
+h1{
+	text-align:center;
+	
+}
+ 
+
+.image1 {
+	margin-bottom:-99999px;
+	padding-bottom:99999px;
+	background-color:#efefef;
+	
+}
+
+#demo{
+	overflow:hidden;
+	
+	
+}
+
+
