@@ -1,1 +1,1 @@
-# Bootstrap Static Bootstrap page
+# Bootstrap Static page
